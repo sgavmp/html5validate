@@ -1,0 +1,12 @@
+1.0.0-beta3
+===========
+- Support for adding custom validation performers.
+
+1.0.0-beta2
+===========
+- Null values behavoir matching the JSR-303 spec.
+
+1.0.0-beta1
+===========
+- Initial working release.
+
